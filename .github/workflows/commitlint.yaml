@@ -8,7 +8,7 @@ on:
 jobs:
   commitlint:
     runs-on: ubuntu-latest
-    name: Conventional Commitlint
+    name: conventionalcommits.org
     permissions:
       contents: read
       pull-requests: read
